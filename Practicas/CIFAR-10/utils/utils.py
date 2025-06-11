@@ -700,7 +700,7 @@ def validate_regression_model(model, dataloader):
     ------------
     model : nn.Module
         Modelo ya entrenado
-        dataloader : DataLoader
+    dataloader : DataLoader
         Datos de validación o test
 
     Retorna:
